@@ -15,8 +15,6 @@ import org.bukkit.event.inventory.ClickType;
 
 import world.bentobox.bentobox.BentoBox;
 import world.bentobox.bentobox.api.panels.Panel;
-import world.bentobox.bentobox.api.panels.PanelItem;
-import world.bentobox.bentobox.api.panels.PanelItem.ClickHandler;
 import world.bentobox.bentobox.api.panels.builders.PanelBuilder;
 import world.bentobox.bentobox.api.panels.builders.PanelItemBuilder;
 import world.bentobox.bentobox.api.user.User;

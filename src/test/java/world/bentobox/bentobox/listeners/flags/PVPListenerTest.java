@@ -63,7 +63,6 @@ import world.bentobox.bentobox.Settings;
 import world.bentobox.bentobox.api.configuration.WorldSettings;
 import world.bentobox.bentobox.api.flags.Flag;
 import world.bentobox.bentobox.api.panels.Panel;
-import world.bentobox.bentobox.api.panels.PanelItem;
 import world.bentobox.bentobox.api.user.Notifier;
 import world.bentobox.bentobox.api.user.User;
 import world.bentobox.bentobox.database.objects.Island;

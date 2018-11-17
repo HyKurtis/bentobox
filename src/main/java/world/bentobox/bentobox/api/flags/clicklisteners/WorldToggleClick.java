@@ -7,7 +7,6 @@ import world.bentobox.bentobox.BentoBox;
 import world.bentobox.bentobox.api.flags.Flag;
 import world.bentobox.bentobox.api.localization.TextVariables;
 import world.bentobox.bentobox.api.panels.Panel;
-import world.bentobox.bentobox.api.panels.PanelItem.ClickHandler;
 import world.bentobox.bentobox.api.user.User;
 import world.bentobox.bentobox.util.Util;
 

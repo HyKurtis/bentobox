@@ -12,7 +12,6 @@ import org.bukkit.inventory.ItemStack;
 import org.bukkit.inventory.meta.SkullMeta;
 
 import world.bentobox.bentobox.BentoBox;
-import world.bentobox.bentobox.api.panels.PanelItem;
 
 public class HeadGetter {
     private static Map<String,ItemStack> cachedHeads = new HashMap<>();

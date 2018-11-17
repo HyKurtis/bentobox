@@ -7,7 +7,6 @@ import world.bentobox.bentobox.api.flags.Flag.Type;
 import world.bentobox.bentobox.api.flags.clicklisteners.CycleClick;
 import world.bentobox.bentobox.api.flags.clicklisteners.IslandToggleClick;
 import world.bentobox.bentobox.api.flags.clicklisteners.WorldToggleClick;
-import world.bentobox.bentobox.api.panels.PanelItem;
 import world.bentobox.bentobox.managers.RanksManager;
 
 public class FlagBuilder {

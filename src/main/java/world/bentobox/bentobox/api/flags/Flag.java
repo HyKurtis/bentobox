@@ -10,7 +10,6 @@ import org.bukkit.inventory.ItemStack;
 import world.bentobox.bentobox.BentoBox;
 import world.bentobox.bentobox.api.configuration.WorldSettings;
 import world.bentobox.bentobox.api.localization.TextVariables;
-import world.bentobox.bentobox.api.panels.PanelItem;
 import world.bentobox.bentobox.api.panels.builders.PanelItemBuilder;
 import world.bentobox.bentobox.api.user.User;
 import world.bentobox.bentobox.database.objects.Island;

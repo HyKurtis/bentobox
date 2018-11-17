@@ -19,7 +19,6 @@ import org.powermock.api.mockito.PowerMockito;
 import org.powermock.core.classloader.annotations.PrepareForTest;
 import org.powermock.modules.junit4.PowerMockRunner;
 
-import world.bentobox.bentobox.api.panels.PanelItem;
 import world.bentobox.bentobox.api.panels.PanelListener;
 import world.bentobox.bentobox.api.user.User;
 

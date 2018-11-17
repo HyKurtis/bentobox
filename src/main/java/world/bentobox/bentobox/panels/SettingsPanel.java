@@ -7,7 +7,6 @@ import org.bukkit.World;
 
 import world.bentobox.bentobox.BentoBox;
 import world.bentobox.bentobox.api.flags.Flag;
-import world.bentobox.bentobox.api.panels.PanelItem;
 import world.bentobox.bentobox.api.panels.builders.PanelBuilder;
 import world.bentobox.bentobox.api.panels.builders.PanelItemBuilder;
 import world.bentobox.bentobox.api.user.User;

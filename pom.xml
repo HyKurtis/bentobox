@@ -119,6 +119,12 @@
 			<version>2.9.2</version>
 			<scope>provided</scope>
 		</dependency>
+		<!-- InventoryFramework -->
+		<dependency>
+			<groupId>com.github.stefvanschie.inventoryframework</groupId>
+			<artifactId>IF</artifactId>
+			<version>0.2.4</version>
+		</dependency>
 	</dependencies>
 
 	<build>
@@ -203,15 +209,19 @@
 					<minimizeJar>true</minimizeJar>
 					<relocations>
 						<relocation>
+							<!-- BStats -->
 							<pattern>org.bstats</pattern>
 							<shadedPattern>world.bentobox.bentobox.util.metrics</shadedPattern>
+							<!-- InventoryFramework -->
+							<pattern>com.github.stefvanschie.inventoryframework</pattern>
+							<shadedPattern>world.bentobox.bentobox.api.panels.inventoryframework</shadedPattern>
 						</relocation>
 					</relocations>
 					<artifactSet>
-                <excludes>
-                  <exclude>org.mongodb:*</exclude>
-                </excludes>
-              </artifactSet>
+                		<excludes>
+                  			<exclude>org.mongodb:*</exclude>
+                		</excludes>
+              		</artifactSet>
 				</configuration>
 				<executions>
 					<execution>

@@ -1,7 +1,5 @@
 package world.bentobox.bentobox.util.heads;
 
-import world.bentobox.bentobox.api.panels.PanelItem;
-
 public interface HeadRequester {
     
     /**

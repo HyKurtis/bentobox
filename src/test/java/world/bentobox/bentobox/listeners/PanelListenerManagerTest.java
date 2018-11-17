@@ -35,8 +35,6 @@ import org.powermock.reflect.Whitebox;
 import world.bentobox.bentobox.BentoBox;
 import world.bentobox.bentobox.Settings;
 import world.bentobox.bentobox.api.panels.Panel;
-import world.bentobox.bentobox.api.panels.PanelItem;
-import world.bentobox.bentobox.api.panels.PanelItem.ClickHandler;
 import world.bentobox.bentobox.api.panels.PanelListener;
 import world.bentobox.bentobox.api.user.User;
 import world.bentobox.bentobox.util.Util;
